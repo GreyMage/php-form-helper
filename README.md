@@ -1,7 +1,7 @@
 php-form-helper
 ===============
 
-This code is intended for personal use, however if ou find it useful, please conider donating!
+This code is intended for personal use, however if you find it useful, please consider donating!
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2V9VFPX38V3A2)
 
