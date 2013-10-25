@@ -1,6 +1,8 @@
 php-form-helper
 ===============
+
 Example Implementation
+	
 	$fb = new formBuilder();
 	$fb->add(new formElement("Company Name"));
 	$fb->add(new formElement("Company Address"));
